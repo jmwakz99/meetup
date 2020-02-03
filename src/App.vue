@@ -31,7 +31,7 @@
     <v-app-bar app color="white--text" style="background-color: #2f3640">
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" class="hidden-md-and-up white--text" />
       <v-toolbar-title>
-        <router-link to="/" tag="span" style="cursor: pointer">MEETUPS</router-link>
+        <router-link to="/" tag="span" style="cursor: pointer">MIKUTANO</router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <div>
